@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://BwAAE696.github.io/live-result-kaiyun-com-cn/sitemap.xml
